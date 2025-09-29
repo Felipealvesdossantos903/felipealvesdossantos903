@@ -2,7 +2,8 @@
 
 Sou Felipe alves , cursando o segundo ano do ensino médio em Análise e Desenvolvimento de Sistemas e atualmente aluno  do curso técnico de Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimento e resolver desafios tecnológicos.
 
-[![Linkedin Badge]https://www.linkedin.com/in/felipe-alves-dos-santos-738310345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-alves-dos-santos-738310345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)](https://www.linkedin.com/in//www.linkedin.com/in/felipe-alves-dos-santos-738310345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+
 
 ---
 
