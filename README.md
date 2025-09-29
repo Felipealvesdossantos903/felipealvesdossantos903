@@ -4,7 +4,6 @@ Sou Felipe alves , cursando o segundo ano do ensino médio em Análise e Desenvo
 
 [![Linkedin Badge]https://www.linkedin.com/in/felipe-alves-dos-santos-738310345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-
 ---
 
 ## ⚡ Tecnologias que eu uso
